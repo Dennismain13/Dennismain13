@@ -1,11 +1,15 @@
-
-### Hi there 👋, Okwechime Dennis
+### Hi there 👋, I'm Okwechime Dennis
 #### Data Analytics and Technologies
 ![Data Analytics and Technologies](https://previews.123rf.com/images/sn333g/sn333g1801/sn333g180100152/93854696-data-analytics-concept-vector-blue-horizontal-banner-or-illustration-in-thin-line-style-on-dark.jpg)
 
 I'm Dennis from Nigeria, residing in the United Kingdom. I am a data analyst with three years of experience in the field. I have a strong background in statistics, Excel, wordpress, data visualization, and programming languages such as Python, R, and SQL. I have a bachelor's degree in materials engineering and a master's degree in data analytics and technologies(In-View).
 
-Skills: PYTHON/ SQL/ R/ TABLEAU/ POWER-BI
+#SKILLS AND EXPERIENCE
+* 🐍 PYTHON
+* 💾 SQL 
+* 👩‍💻 POWER-BI
+* 💻  TABLEAU
+* 👨‍💻  R 
 
 - 🔭 I’m currently working on PROJECTS 
 - 🌱 I’m currently learning R and POWER BI 
